@@ -27,7 +27,7 @@ A motivated and results-oriented **Full Stack Developer** with almost 2 years of
 #### 🛠️ Technologies I Thrive On:
 #### 🔭 What I'm Currently Focused On:
 
-* Continuously enhancing my skills in modern JavaScript frameworks and libraries.
+* Continuously enhancing my skills in modern Laravel frameworks and libraries.
 * Exploring and implementing best practices in UI/UX design and accessibility.
 * Contributing to impactful projects at Digital Adage Sdn Bhd.
 
