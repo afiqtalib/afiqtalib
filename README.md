@@ -20,7 +20,17 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-afiqtalib-blue.svg?style=flat-square&logo=linkedin)](https://linkedin.com/in/afiqtalib)
 [![Portfolio](https://img.shields.io/badge/Portfolio-afiqtalib.github.io-brightgreen.svg?style=flat-square&logo=netlify)](https://afiqtalib.github.io/portfolio)
 
-A motivated and results-oriented **Full Stack Developer** with almost 2 years of hands-on experience in crafting robust and user-centric software solutions. Passionate about leveraging technology to solve real-world problems and continuously seeking opportunities to learn and grow in the dynamic field of Information Technology. Currently contributing at **Digital Adage Sdn Bhd**, I bring a strong foundation in both front-end and back-end development, coupled with a proactive approach to project delivery and problem-solving.
+
+🧑‍💻 Afiq Talib
+💼 Full Stack Developer (~2 years)
+🚀 Always exploring new skills
+
+🔥 **Full Stack Developer** (~2 years)
+🛠️ Building robust & user-friendly solutions.
+💡 Driven by technology for real-world impact.
+🌱 Committed to continuous learning in IT.
+🏢 Currently contributing at **Digital Adage Sdn Bhd**.
+🚀 Proactive approach to development & problem-solving.
 
 ---
 
@@ -38,7 +48,6 @@ A motivated and results-oriented **Full Stack Developer** with almost 2 years of
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OMN4ji/giphy.gif" width="30"> My Recent Contributions:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=afiqtalib&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afiqtalib&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### <img src="https://media.giphy.com/media/m9i6rWvZnGatG/giphy.gif" width="30"> Connect with Me:
 
@@ -48,11 +57,6 @@ A motivated and results-oriented **Full Stack Developer** with almost 2 years of
 
 ---
 
-```javascript
-const aboutMe = {
-  name: "Muhammad Afiq Bin Talib Ali",
-  location: "Kota Bharu, Kelantan",
-  occupation: "Full Stack Developer",
-  experience: "~2 years",
-  status: "Always learning and building!",
-};
+🧑‍💻 Muhammad Afiq Bin Talib Ali
+💼 Full Stack Developer (~2 years)
+🚀 Always exploring new skills
