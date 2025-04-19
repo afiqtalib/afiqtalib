@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there, I'm Muhammad Afiq!
 
-[![Email](https://img.shields.io/badge/Email-afiqtalib2580%40gmail.com-red.svg?style=flat-square&logo=gmail)](mailto:afiqtalib2580@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-afiqtalib-blue.svg?style=flat-square&logo=linkedin)](https://linkedin.com/in/afiqtalib)
-[![Portfolio](https://img.shields.io/badge/Portfolio-afiqtalib.github.io-brightgreen.svg?style=flat-square&logo=netlify)](https://afiqtalib.github.io/portfolio)
-
----
-
 #### 🛠️ Technologies I Thrive On:
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
