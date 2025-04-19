@@ -19,14 +19,6 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-afiqtalib-blue.svg?style=flat-square&logo=linkedin)](https://linkedin.com/in/afiqtalib)
 [![Portfolio](https://img.shields.io/badge/Portfolio-afiqtalib.github.io-brightgreen.svg?style=flat-square&logo=netlify)](https://afiqtalib.github.io/portfolio)
 
-🧑‍💻 Afiq Talib
-
-💼 Full Stack Developer (~2 years)
-
-🌐 Passionate about using tech to solve problems.
-
-📚 Continuously seeking growth in the IT landscape.
-
 ---
 
 #### 🛠️ Technologies I Thrive On:
@@ -48,21 +40,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office">
   <img src="https://img.shields.io/badge/OutSystems-003868?style=for-the-badge&logo=outsystems&logoColor=white" alt="OutSystems">
 </div>
 
 #### 🔭 What I'm Currently Focused On:
 
-* Continuously enhancing my skills in modern Laravel frameworks and libraries.
+* Continuously enhancing my skills in modern web and mobile apps.
 * Exploring and implementing best practices in UI/UX design and accessibility.
-* Contributing to impactful any projects
+* Contributing to impactful any projects.
 
 #### 🌱 What I'm Learning:
 
-* [Mention a specific technology or area you're currently learning, e.g., Advanced React Concepts, Cloud Architectures, etc.]
+* Laravel Stack, UIUX, Pyhton, React Native
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OMN4ji/giphy.gif" width="30"> My Recent Contributions:
 
