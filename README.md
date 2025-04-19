@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 
 🧑‍💻 Afiq Talib
+
 💼 Full Stack Developer (~2 years)
+
 🚀 Always exploring new skills
 
 ---
