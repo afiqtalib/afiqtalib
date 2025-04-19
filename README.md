@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-afiqtalib-blue.svg?style=flat-square&logo=linkedin)](https://linkedin.com/in/afiqtalib)
 [![Portfolio](https://img.shields.io/badge/Portfolio-afiqtalib.github.io-brightgreen.svg?style=flat-square&logo=netlify)](https://afiqtalib.github.io/portfolio)
 
-
 🧑‍💻 Afiq Talib
 
 💼 Full Stack Developer (~2 years)
@@ -29,12 +28,51 @@ Here are some ideas to get you started:
 
 ---
 
+#### 💁‍♂️ Passion over the world:
+
+💡 Motivated & results-oriented, crafting robust solutions.
+
+🌐 Passionate about using tech to solve problems.
+
+📚 Continuously seeking growth in the IT landscape.
+
+🛠️ Strong foundation in front-end & back-end with a proactive mindset.
+
+---
+
 #### 🛠️ Technologies I Thrive On:
+
+* **Programming:**
+    * Laravel
+    * CodeIgniter
+    * Livewire
+    * Bootstrap
+    * Tailwind CSS
+    * HTML
+    * CSS
+    * JavaScript
+    * Python
+    * Websocket
+    * Node.js
+    * Oracle
+    * Power Apps
+* **Database Management:**
+    * MySQL (**Proficient**)
+    * MongoDB (**Intermediate**)
+    * Oracle SQL (**Intermediate**)
+* **Other:**
+    * Git
+    * WordPress
+    * Power BI
+    * Microsoft Office
+    * OutSystems
+    * PC Troubleshooting
+
 #### 🔭 What I'm Currently Focused On:
 
 * Continuously enhancing my skills in modern Laravel frameworks and libraries.
 * Exploring and implementing best practices in UI/UX design and accessibility.
-* Contributing to impactful projects at Digital Adage Sdn Bhd.
+* Contributing to impactful any projects
 
 #### 🌱 What I'm Learning:
 
@@ -53,5 +91,7 @@ Here are some ideas to get you started:
 ---
 
 🧑‍💻 Muhammad Afiq Bin Talib Ali
+
 💼 Full Stack Developer (~2 years)
+
 🚀 Always exploring new skills
