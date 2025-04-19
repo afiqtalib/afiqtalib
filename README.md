@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there, I'm Muhammad Afiq!
 
-[![Location](https://img.shields.io/badge/Location-Kota%20Bharu%2C%20Kelantan-blue.svg?style=flat-square)](https://www.google.com/maps/place/Kota+Bharu,+Kelantan)
 [![Email](https://img.shields.io/badge/Email-afiqtalib2580%40gmail.com-red.svg?style=flat-square&logo=gmail)](mailto:afiqtalib2580@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-afiqtalib-blue.svg?style=flat-square&logo=linkedin)](https://linkedin.com/in/afiqtalib)
 [![Portfolio](https://img.shields.io/badge/Portfolio-afiqtalib.github.io-brightgreen.svg?style=flat-square&logo=netlify)](https://afiqtalib.github.io/portfolio)
@@ -55,19 +54,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OutSystems-003868?style=for-the-badge&logo=outsystems&logoColor=white" alt="OutSystems">
 </div>
 
-
-* **Database Management:**
-    * MySQL (**Proficient**)
-    * MongoDB (**Intermediate**)
-    * Oracle SQL (**Intermediate**)
-* **Other:**
-    * Git
-    * WordPress
-    * Power BI
-    * Microsoft Office
-    * OutSystems
-    * PC Troubleshooting
-
 #### 🔭 What I'm Currently Focused On:
 
 * Continuously enhancing my skills in modern Laravel frameworks and libraries.
@@ -87,11 +73,3 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afiqtalib)
 [![Gmail](https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afiqtalib2580@gmail.com)
 [![My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-brightgreen?style=for-the-badge&logo=netlify&logoColor=white)](https://afiqtalib.github.io/portfolio)
-
----
-
-🧑‍💻 Muhammad Afiq Bin Talib Ali
-
-💼 Full Stack Developer (~2 years)
-
-🚀 Always exploring new skills
