@@ -25,13 +25,6 @@ Here are some ideas to get you started:
 💼 Full Stack Developer (~2 years)
 🚀 Always exploring new skills
 
-🔥 **Full Stack Developer** (~2 years)
-🛠️ Building robust & user-friendly solutions.
-💡 Driven by technology for real-world impact.
-🌱 Committed to continuous learning in IT.
-🏢 Currently contributing at **Digital Adage Sdn Bhd**.
-🚀 Proactive approach to development & problem-solving.
-
 ---
 
 #### 🛠️ Technologies I Thrive On:
