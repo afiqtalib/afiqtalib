@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 #### 🌱 What I'm Learning:
 
-* Laravel Stack, UIUX, Pyhton, React Native
+* Laravel Stack, UIUX, Pyhton, React Native, Data Visualization
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OMN4ji/giphy.gif" width="30"> My Recent Contributions:
 
